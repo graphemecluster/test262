@@ -84,6 +84,10 @@ Atomics.pause
 # https://github.com/tc39/proposal-is-error
 Error.isError
 
+# Records and Tuples
+# https://tc39.es/proposal-record-tuple/
+record-tuple
+
 ## Standard language features
 #
 # Language features that have been included in a published version of the
